@@ -1,3 +1,2 @@
 Testit vituiks
-Testit onnistuneiks
-ei vittu
+vai menikö sittenkään?
